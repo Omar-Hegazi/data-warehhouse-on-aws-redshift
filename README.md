@@ -8,7 +8,9 @@ Building an ETL pipeline that extracts their data from S3, stages them in Redshi
 I worked with two datasets that reside in S3. Here are the S3 links for each:
 
 Song data: s3://udacity-dend/song_data
+
 Log data: s3://udacity-dend/log_data
+
 Log data json path: s3://udacity-dend/log_json_path.json
 
 #### Song Dataset
